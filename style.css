@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    color: snow;
+    text-align: center;
+}
+
+.menor{
+    color: tomato;
+}
+
+.mayor{
+    color: lime;
+}
+#root{
+    margin-top: 20vh;
+}
+.cero{
+    color: yellow;
+}
